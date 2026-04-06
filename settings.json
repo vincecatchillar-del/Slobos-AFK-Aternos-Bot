@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "JavaXBedrock9-xZfx.aternos.me",
-    "port": 45655,
-    "version": "",
+    "ip": "SurvivorLegacy.aternos.me",
+    "port": 46668,
+    "version": "26.1.1 ",
     "try-creative": false
   },
   "position": {
